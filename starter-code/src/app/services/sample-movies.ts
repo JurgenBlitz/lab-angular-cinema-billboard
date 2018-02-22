@@ -1,4 +1,4 @@
-[
+const movies : Object[]=[
   {
     id: 1,
     title: "The Shawshank Redemption",
@@ -92,3 +92,4 @@
     ]
   }
 ]
+export default movies;
